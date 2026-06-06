@@ -1,5 +1,7 @@
 # explicit-implicit-AD
 This repository contains the code for the study: Dissociation between impaired explicit spatial remapping and preserved implicit neural dynamics in Alzheimer’s disease
+
+
 pre-process: Data_geteventTS.m; Data_getvideo_ABBA.m; code_Process_Data_video.m
 Get ratemap: do_all_ratemap_OF.m
 Plot ratemap: do_all_plot_ratemap_v2.m
